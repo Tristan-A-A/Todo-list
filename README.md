@@ -1,7 +1,7 @@
 # Intro
 Hi! This is just a small project I took on to learn how to build things using code. 
 
-I specifically chose tom nake a Todo-list application as I'm getting heavy into life optimizations and utilizing programs like Notion to manage my work flow.
+I specifically chose to make a Todo-list application as I'm getting heavy into life optimizations and utilizing programs like Notion to manage my work flow.
 
 I wanted this project to end up with a ui, so I developed it using HTML, CSS, and Javascript. 
 
